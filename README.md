@@ -5,6 +5,7 @@ Områder :
 - Olje
 - Finansiering Bevis Kriminalitet
 - Serie Bedrageri med Lån
+- Låne Konvertering Bedrageri og Korrupsjon
 - Kontrakter
 - Bolig
 - Butikk og Handel
