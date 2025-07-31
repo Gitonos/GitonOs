@@ -8,3 +8,4 @@ Områder :
 - Bolig
 - Butikk og Handel
 - Varer og Forfalsking Kriminalitet
+- Tilbud Bedrageri og Svindel Forhold
