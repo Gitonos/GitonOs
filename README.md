@@ -7,4 +7,4 @@ Områder :
 - Kontrakter
 - Bolig
 - Butikk og Handel
-- Vare Kriminalitet
+- Varer og Forfalsking Kriminalitet
