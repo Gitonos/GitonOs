@@ -59,4 +59,4 @@ Områder :
 
 -----------------------
 
-- Slaveri Arbeid og Svindel Mot BNP
+- Olje Slaveri Arbeid og Svindel Mot BNP
