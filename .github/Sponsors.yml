@@ -1,0 +1,25 @@
+name: GitHub Sponsors Automation
+
+on:
+  schedule:
+    - cron: '0 0 * * 1' # Runs weekly
+  workflow_dispatch:
+
+jobs:
+  update-sponsors:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update Sponsors List
+        uses: JamesIves/github-sponsors-readme-action@v2
+        with:
+          file: 'SPONSORS.md'
+          commit-message: 'Update sponsor list [skip ci]'
+
+      - name: Thank New Sponsors (Optional)
+        uses: koddsson/sponsor-action@v1
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          message: "Thank you for sponsoring this project! 🎉"
