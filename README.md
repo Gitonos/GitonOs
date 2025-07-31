@@ -1,1 +1,1 @@
-![Highway Fuel Efficiency Plot](mpg_plot.png)
+Plot data and interfaces
