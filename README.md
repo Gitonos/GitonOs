@@ -47,3 +47,4 @@ Områder :
 ------------------
 
 - Finans Lureri og Stor Kriminalitet med Foretning Korrupsjoner
+- Politikker Støtte Bedrageri og Idrett Bedrageri Støtte med Svindel Penger Fra Finans Kriminalitet
