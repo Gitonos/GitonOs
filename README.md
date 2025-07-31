@@ -17,3 +17,7 @@ Områder :
 - Justis Bedrageri i Avgift Forfalskning
 - Bedrageri med forfalsket verdipapirer med bedrageri resultat
 - Svindel og Bedrageri med penger og falske penge utbetalinger
+
+---------------------
+
+- Bedrageri svindel med handel involvering med ulovlig finans instrumenter
