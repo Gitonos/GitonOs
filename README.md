@@ -49,3 +49,7 @@ Områder :
 - Finans Lureri og Stor Kriminalitet med Foretning Korrupsjoner
 - Politikker Støtte Bedrageri og Idrett Bedrageri Støtte med Svindel Penger Fra Finans Kriminalitet
 - Bedrageri Forhold med Svindel Kriminalitet og Støtte Bedrageri Hvitvasking
+
+-------------------
+
+- Svindel med Tyveri av Støtte Forhold og Undergraving Kriminalitet og Svindel 
