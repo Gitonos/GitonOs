@@ -24,3 +24,7 @@ Områder :
 - Bedrageri og svindel med kopierte ulovlige handels instrumenter
 - Bedrageri og Svindel med Person Vern Svindel
 - Bedrageri og Svindel med Falske Bedrifts Forhold og Tyveri Kriminaliteter
+
+--------------------------
+
+- Svindel industri med Subsea Criminalitet
