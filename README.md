@@ -6,6 +6,7 @@ Områder :
 - Finansiering Bevis Kriminalitet
 - Serie Bedrageri med Lån
 - Låne Konvertering Bedrageri og Korrupsjon
+- Matrielle Bedrageri og Hvitvasking
 - Kontrakter
 - Bolig
 - Butikk og Handel
