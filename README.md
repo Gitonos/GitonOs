@@ -54,3 +54,4 @@ Områder :
 
 - Svindel med Tyveri av Støtte Forhold og Undergraving Kriminalitet og Svindel 
 - Stor Senior Bedrageri Med Investering Svindel og Kriminalitet
+- Stor Svindel med Falske Bedrift Analyser og Falske Bærekrafts Bedrageri
