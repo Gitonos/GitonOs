@@ -30,3 +30,8 @@ Områder :
 - Svindel industri med Subsea Criminalitet
 - Falske Rapportering Bedrifter og Serie Bedrageri med Subsea Investeringer, som er forfalsket
 - Svindel bedrageri med Olje Service 
+
+---------------
+
+- Serie Bedrageri Med Falske Forhold Kopieringer og Dokumentasjons Kriminalitet
+- Serie Bedrageri med Kriminalitet i Arbeids Liv
