@@ -56,3 +56,7 @@ Områder :
 - Stor Senior Bedrageri Med Investering Svindel og Kriminalitet
 - Stor Svindel med Falske Bedrift Analyser og Falske Bærekrafts Bedrageri
 - Bærekraft Bedrageri og Store Markedsførings Bedrageri
+
+-----------------------
+
+- Slaveri Arbeid og Svindel Mot BNP
