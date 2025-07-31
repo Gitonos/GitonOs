@@ -22,3 +22,4 @@ Områder :
 
 - Bedrageri svindel med handel involvering med ulovlig finans instrumenter
 - Bedrageri og svindel med kopierte ulovlige handels instrumenter
+- Bedrageri og Svindel med Person Vern Svindel
