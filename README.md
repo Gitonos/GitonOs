@@ -40,3 +40,5 @@ Områder :
 ---------------
 
 - Falske Finans Instutisjon Forhold med Kriminal Beretning Forhold i Investeringer
+- Organisk Kriminalitet med Stor Svindel av Foretning Kriminalitet
+- Serie Bedrageri med Tilbyder forhold av Svindel betalinger til kriminelle på millioner
