@@ -3,7 +3,8 @@ Systematisk Svindel i Arbeids Liv Kriminalitet
 Områder : 
 
 - Olje
-- Finansiering Bevis
+- Finansiering Bevis Kriminalitet
+- Serie Bedrageri med Lån
 - Kontrakter
 - Bolig
 - Butikk og Handel
