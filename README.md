@@ -16,3 +16,4 @@ Områder :
 - Justis Bedrageri og Svindel med Løyve og Konsesjons Kriminalitet
 - Justis Bedrageri i Avgift Forfalskning
 - Bedrageri med forfalsket verdipapirer med bedrageri resultat
+- Svindel og Bedrageri med penger og falske penge utbetalinger
