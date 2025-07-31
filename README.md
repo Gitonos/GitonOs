@@ -14,3 +14,4 @@ Områder :
 - Tilbud Bedrageri og Svindel Forhold
 - Politikk Bedrageri og Svindel med Politikker Arbeid og Arbeidsliv Kriminalitet
 - Justis Bedrageri og Svindel med Løyve og Konsesjons Kriminalitet
+- Justis Bedrageri i Avgift Forfalskning
