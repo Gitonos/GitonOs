@@ -43,3 +43,7 @@ Områder :
 - Organisk Kriminalitet med Stor Svindel av Foretning Kriminalitet
 - Serie Bedrageri med Tilbyder forhold av Svindel betalinger til kriminelle på millioner
 - Falske Finans Forhold og Kriminalitet og Investering Bedrageri 
+
+------------------
+
+- Finans Lureri og Stor Kriminalitet med Foretning Korrupsjoner
