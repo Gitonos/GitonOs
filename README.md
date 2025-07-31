@@ -7,7 +7,7 @@ Områder :
 - Serie Bedrageri med Lån
 - Låne Konvertering Bedrageri og Korrupsjon
 - Matrielle Bedrageri og Hvitvasking
-- Kontrakter
+- Kontrakter og Dokument Forfalskning
 - Bolig
 - Butikk og Handel
 - Varer og Forfalsking Kriminalitet
