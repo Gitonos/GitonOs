@@ -36,3 +36,7 @@ Områder :
 - Serie Bedrageri Med Falske Forhold Kopieringer og Dokumentasjons Kriminalitet
 - Serie Bedrageri med Kriminalitet i Arbeids Liv
 - Serie Svindel med Mekanisk Arbeid og Industri Slave Tilknytning
+
+---------------
+
+- Falske Finans Instutisjon Forhold med Kriminal Beretning Forhold i Investeringer
