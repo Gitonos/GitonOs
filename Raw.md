@@ -1,6 +1,9 @@
 
 ### Crime Junk Finance: An Overview
 
+
+
+
 "Crime Junk Finance" is a conceptual framework that applies the principles of financial analysis, fraud examination, and risk management to the study of true crime cases. It's a multidisciplinary approach that seeks to understand the financial motivations behind criminal acts, trace illicit financial flows, and analyze the economic impact of crime. This framework isn't a single organization but rather a methodology that can be adopted by various individuals and groups, including forensic accountants, financial analysts, law enforcement officers, and true crime enthusiasts.
 
 The core of "Crime Junk Finance" lies in the belief that many crimes, from petty theft to complex fraud schemes, are fundamentally driven by financial incentives. By focusing on the money, investigators can often uncover the motive, identify co-conspirators, and trace the timeline of events. This approach is particularly effective in cases involving white-collar crime, organized crime, and corruption, where the financial trail is often the most critical piece of evidence.
