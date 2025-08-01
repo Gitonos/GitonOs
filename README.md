@@ -21,3 +21,8 @@ Compliance Programs:
 Organizations implement risk-based compliance programs to detect and prevent financial crimes. 
 Regulations and Oversight:
 Regulatory bodies monitor financial markets and enforce regulations to deter and punish financial crime. 
+
+-----------
+
+- As GitOnOS we Involve Reporting System Leverages System for Reporting "Crime junk finance"
+- We Building Systematic Tendencies to Envolve Reporting "Crime junk finance" 
