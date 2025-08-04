@@ -28,7 +28,8 @@ personvern
   overvåkning i psykiatri
 
 - noen kan få det bedre
-med ta farvell i norge
+med ta farvell i norge og reise til
+syden og bruke en ferie periode som avlastning
 - noen kan få det godt
 ved finne en mindre belastende hverdag
 - noen kan oppnå en god dag
