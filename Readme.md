@@ -22,8 +22,7 @@ Hvis du eller noen du kjenner opplever symptomer på psykose, er det viktig å t
 
 ---------
 
-
-vi
-må
-aldri 
-kontakte feil
+- vi skal aldri utsette
+personvern
+- Noen der ute kan være farlige og ha en lidelse og kunne trenge
+  overvåkning i psykiatri
