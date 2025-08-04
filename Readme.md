@@ -26,3 +26,10 @@ Hvis du eller noen du kjenner opplever symptomer på psykose, er det viktig å t
 personvern
 - Noen der ute kan være farlige og ha en lidelse og kunne trenge
   overvåkning i psykiatri
+
+- noen kan få det bedre
+med ta farvell i norge
+- noen kan få det godt
+ved finne en mindre belastende hverdag
+- noen kan oppnå en god dag
+med ha psykolog kontakt
