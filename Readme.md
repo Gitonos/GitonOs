@@ -4,11 +4,11 @@ Welcome to GitOnOS
 
 This repository now presents a 
 
--- Profile Card
-  -- Developer Menu
-  -- Programming Language List
+- Profile Card
+- Developer Menu
+- Programming Language List
   
----
+----------------------------
 
 ## Developer Profile Card
 
