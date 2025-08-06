@@ -10,7 +10,7 @@
 ---
 
 ### Developer Status
-
+- Dev Name: GitonOS
 - **Status:** Good
 - **Forks:** High (⭐⭐⭐⭐☆)
 - **Stars:** Excellent (⭐⭐⭐⭐⭐)
@@ -20,6 +20,9 @@
   - PHP
   - HTML
   - Java
+  - Curl
+  - Terminal
+  - Bash
 
 ---
 
