@@ -24,7 +24,7 @@ Our goal: make open-source exploration accessible to everyone, anytime.
 
 # GitONOS
 
-![Developer Internal Avatar]([https://avatars.githubusercontent.com/u/9919?v=4](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHF4NDlub3Q2Z2xzemNuOHc1OGJ4aWJmcWNkbHNkbmk0c3hnMHNzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohjUTvG731enwynYc/giphy.gif))  
+![Developer Internal Avatar]([https://avatars.githubusercontent.com/u/9919?v=4](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHF4NDlub3Q2Z2xzemNuOHc1OGJ4aWJmcWNkbHNkbmk0c3hnMHNzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohjUTvG731enwynYc/giphy.gif)  
 
 
 ---
