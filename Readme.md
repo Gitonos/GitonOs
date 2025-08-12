@@ -1,19 +1,12 @@
 # GitHub Profile Showcase
 
-Welcome to your personalized GitHub Profile README! This file demonstrates a 
-creative way to showcase your developer persona, 
-skills, and your unique project: a standalone GitHub search instance.
-
----
+------------------
 
 
-
----
-
-## Internal Developer Image
+# GitONOS
 
 ![Developer Internal Avatar](https://avatars.githubusercontent.com/u/9919?v=4)  
-*Your internal developer avatar (replace with your image if preferred)*
+
 
 ---
 
@@ -41,8 +34,11 @@ We have built a custom GitHub Search Instance—a user interface for searching r
 
 ### Why This Matters?
 
-This project empowers users to interact with GitHub in a frictionless way, enabling repository discovery and exploration for everyone, including those who don’t want to sign in or create an account. It’s perfect for open-source enthusiasts, researchers, and anyone who values ease of access.
+This project empowers users to interact with GitHub in a frictionless way, 
+enabling repository discovery and exploration for everyone, 
+including those who don’t want to sign in or create an account. 
+It’s perfect for open-source enthusiasts, researchers, and anyone who need a search
 
 ---
 
-> **Feel free to customize your ASCII frame, developer image, and skills to better reflect your developer identity!**
+> ** We Making Instances of Github Search With Updated Gui  **
