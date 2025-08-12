@@ -1,5 +1,69 @@
-# GitHub Profile Showcase
+# 👋 Welcome to GitonOs!
 
+![Animated Banner](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHF4NDlub3Q2Z2xzemNuOHc1OGJ4aWJmcWNkbHNkbmk0c3hnMHNzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohjUTvG731enwynYc/giphy.gif)
+
+---
+
+## 🧑‍💻 **Profile Card**
+
+| <img src="https://avatars.githubusercontent.com/u/your-avatar-id?v=4" width="120" align="center" /> | **Gitonos**<br/>*Open Source Enthusiast*<br/>*Full Stack Developer*<br/>*AI & ML Explorer* |
+|:--:|:--|
+
+**Languages & Frameworks**
+
+<div style="display:flex; gap:18px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" title="TensorFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" title="Vue.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" width="40" title="Bulma"/>
+</div>
+
+---
+
+## 🛠️ **Developer Libraries**
+
+- **Node.js**  
+  Powerful JavaScript runtime for building scalable server-side applications.
+
+- **TensorFlow**  
+  Open-source platform for machine learning and artificial intelligence.
+
+- **React**  
+  Declarative JavaScript library for building user interfaces.
+
+- **Bulma**  
+  Modern CSS framework based on Flexbox for rapid design.
+
+- **Vue.js**  
+  Progressive JavaScript framework for building interactive web interfaces.
+
+---
+
+## 📚 **Get Started**
+
+```bash
+# Clone the repo
+git clone https://github.com/Gitonos/GitonOs.git
+
+# Install dependencies
+npm install
+
+# Start development server
+npm start
+```
+
+---
+
+## 🤝 **Connect With Me**
+
+- [GitHub](https://github.com/Gitonos)
+- [LinkedIn](#)
+- [Twitter](#)
+
+---
+
+> _Building the future with powerful libraries and creative code!_
 
 ----------------
 
