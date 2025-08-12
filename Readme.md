@@ -2,12 +2,16 @@
 
 ![Animated Banner](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dGZhdzc1ZDhla3JxYzFwYTRlOXQ5OW4xZGY5ZTlzbjAycjZxY2pieSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/3ohjV6G5sdZJkp0rUQ/giphy.gif)
 
----
+-------------
 
-## 🧑‍💻 **Profile Card**
+- Pro Builder Works
+- Build Of The Century
+- Bootstrap of Century
 
-| <img src="https://avatars.githubusercontent.com/u/your-avatar-id?v=4" width="120" align="center" /> | **Gitonos**<br/>*Open Source Enthusiast*<br/>*Full Stack Developer*<br/>*AI & ML Explorer* |
-|:--:|:--|
+
+-------------
+
+
 
 **Languages & Frameworks**
 
