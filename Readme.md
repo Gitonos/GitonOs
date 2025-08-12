@@ -1,10 +1,23 @@
 # GitHub Profile Showcase
 
 
-
+----------------
 
 
 https://gitonos.github.io/GitonOs/
+
+
+-------------------
+
+
+## About GitOnOS Search
+
+GitOnOS offers a robust, standalone GitHub search instance.
+We have engineered this platform to deliver an advanced repository discovery
+experience without requiring users to log in to GitHub. 
+Our goal: make open-source exploration accessible to everyone, anytime.
+
+
 
 ------------------
 
@@ -35,13 +48,9 @@ https://gitonos.github.io/GitonOs/
 
 # GitOnOS GitHub Search
 
-Welcome to **GitOnOS** – your powerful solution for searching GitHub repositories with speed, efficiency, and independence.
+Welcome to **GitOnOS** – your powerful browser app for searching GitHub repositories with speed, efficiency, and independence.
 
 ---
-
-## About GitOnOS Search
-
-GitOnOS offers a robust, standalone GitHub search instance. We have engineered this platform to deliver an advanced repository discovery experience without requiring users to log in to GitHub. Our goal: make open-source exploration accessible to everyone, anytime.
 
 ---
 
