@@ -70,8 +70,8 @@ npm start
 ## 🤝 **Connect With Me**
 
 - [GitHub](https://github.com/Gitonos)
-- [LinkedIn](#)
-- [Twitter](#)
+
+
 
 ---
 
