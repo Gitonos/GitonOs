@@ -1,6 +1,13 @@
 # 👋 Welcome to GitonOs!
 
-![Animated Banner](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dGZhdzc1ZDhla3JxYzFwYTRlOXQ5OW4xZGY5ZTlzbjAycjZxY2pieSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/3ohjV6G5sdZJkp0rUQ/giphy.gif)
+https://gitonos.github.io/Backend-Build/
+
+- this project is making us build backend in seconds and run any apps as interface view stable.
+
+- this is not making a app go error mode by a template app or a starter app project.
+- this is making also our own code language operate as getting a backend
+
+- what takes time is envolving backend in apps, but we schudeled it up to have backend by Library developed , even its a custom developed thats not meaned published
 
 -------------
 
