@@ -62,7 +62,11 @@ https://gitonos.github.io/Backend-Build/
 - **Vue.js**  
   Progressive JavaScript framework for building interactive web interfaces.
 
----
+----------------
+----------------
+----------------
+----------------
+----------------
 
 ##  **Get Started in terminal client**
 
@@ -78,10 +82,6 @@ npm start
 ```
 
 ---
-
-## 🤝 **Connect With Me**
-
-- [GitHub](https://github.com/Gitonos)
 
 
 
