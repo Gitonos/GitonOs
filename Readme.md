@@ -99,3 +99,6 @@ We are allready having a partner computer on thaiwan
 > _We are selling our software compartments to our partner in Jamaica *_
 
 > _We have only legal attributes and will only merge into Jamaica!_
+
+> _We have builded this to merge into colony Jamaica!_
+
