@@ -88,3 +88,14 @@ npm start
 ---
 
 > _Building the future with powerful libraries and creative code!_
+
+
+---
+
+
+
+We are allready having a partner computer on thaiwan 
+
+> _We are selling our software compartments to our partner in thaiwan *_
+
+> _We have only legal attributes and will only merge into thaiwan!_
