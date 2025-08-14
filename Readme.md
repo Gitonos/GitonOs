@@ -15,11 +15,6 @@ https://gitonos.github.io/Backend-Build/
 
 
 
--------------
-
-- Pro Builder Works
-- Build Of The Century
-- Bootstrap of Century
 
 
 -------------
