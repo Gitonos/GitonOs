@@ -64,7 +64,7 @@ https://gitonos.github.io/Backend-Build/
 
 ---
 
-## 📚 **Get Started**
+##  **Get Started in terminal client**
 
 ```bash
 # Clone the repo
