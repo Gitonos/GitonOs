@@ -1,102 +1,67 @@
-Developer Badges and Icons
-This is a curated collection of developer icons and badges, perfect for showcasing the technologies used in your projects. Use these to enhance your project's README.md and make it more visually appealing and informative.
-Languages
 | Icon | Badge | Description |
 |---|---|---|
-|  |  | A versatile, high-level programming language known for its readability. |
-|  |  | The language of the web, essential for front-end development. |
-|  |  | A widely-used, class-based, object-oriented programming language. |
-|  |  | A powerful, general-purpose programming language for systems and applications. |
-|  |  | A multi-paradigm language developed by Microsoft. |
-|  |  | A superset of JavaScript that adds static typing. |
-|  |  | A statically typed, compiled language from Google. |
-|  |  | A language focused on safety, performance, and concurrency. |
-|  |  | A robust and intuitive programming language for Apple platforms. |
-|  |  | A modern, statically typed language for JVM, Android, and browser apps. |
-Frameworks & Libraries
-| Icon | Badge | Description |
-|---|---|---|
-|  |  | A JavaScript library for building user interfaces. |
-|  |  | An approachable, performant, and versatile framework for building web UIs. |
-|  |  | A platform for building mobile and desktop web applications. |
-|  |  | A JavaScript runtime built on Chrome's V8 engine. |
-|  |  | A minimal and flexible Node.js web application framework. |
-|  |  | A high-level Python web framework that encourages rapid development. |
-|  |  | A web application framework written in Ruby. |
-|  |  | A comprehensive framework for Java development. |
-|  |  | The React Framework for Production. |
-|  |  | A utility-first CSS framework for rapid UI development. |
-Databases
-| Icon | Badge | Description |
-|---|---|---|
-|  |  | A NoSQL database program. |
-|  |  | The world's most popular open-source database. |
-|  |  | A powerful, open-source object-relational database system. |
-|  |  | An open-source, in-memory data structure store. |
-|  |  | A relational database management system. |
-|  |  | A C-language library that implements a small, fast, self-contained, high-reliability, full-featured, SQL database engine. |
-|  |  | A relational database management system developed by Microsoft. |
-|  |  | A mobile and web application development platform by Google. |
-|  |  | A free and open-source, distributed, wide-column store, NoSQL database management system. |
-|  |  | A distributed, RESTful search and analytics engine. |
-Cloud & DevOps
-| Icon | Badge | Description |
-|---|---|---|
-|  |  | Amazon Web Services. |
-|  |  | A platform for developing, shipping, and running applications. |
-|  |  | An open-source container-orchestration system for automating application deployment. |
-|  |  | Microsoft's cloud computing service. |
-|  |  | A suite of cloud computing services that runs on the same infrastructure that Google uses. |
-|  |  | A self-contained, open-source automation server. |
-|  |  | A version control system. |
-|  |  | A platform for version control and collaboration. |
-|  |  | A proprietary issue tracking product developed by Atlassian. |
-|  |  | An infrastructure as code software tool. |
-Mobile
-| Icon | Badge | Description |
-|---|---|---|
-|  |  | An open-source mobile operating system. |
-|  |  | A UI toolkit for building beautiful, natively compiled applications. |
-|  |  | A framework for building native mobile apps using React. |
-|  |  | A powerful programming language for Apple platforms. |
-|  |  | A modern, statically typed language for Android. |
-|  |  | A free, open-source platform for building modern and performant applications. |
-|  |  | A free and open-source mobile UI toolkit for building native and progressive web apps. |
-|  |  | A mobile application development framework. |
-|  |  | A general-purpose, object-oriented programming language. |
-|  |  | A cross-platform game engine. |
-Other Tools & Technologies
-| Icon | Badge | Description |
-|---|---|---|
-|  |  | A powerful source code editor. |
-|  |  | A web-based, Kanban-style list-making application. |
-|  |  | A messaging app for businesses. |
-|  |  | A tool for defining and running multi-container Docker applications. |
-|  |  | The package manager for Node.js. |
-|  |  | A package manager for JavaScript with a focus on speed, security, and stability. |
-|  |  | A static module bundler for modern JavaScript applications. |
-|  |  | A JavaScript compiler. |
-|  |  | A linting utility for JavaScript. |
-|  |  | An opinionated code formatter. |
-Protocols
-| Icon | Badge | Description |
-|---|---|---|
-|  |  | A query language for APIs. |
-|  |  | A protocol providing full-duplex communication channels over a single TCP connection. |
-|  |  | The foundation of data communication for the World Wide Web. |
-|  |  | An architectural style for designing networked applications. |
-|  |  | A messaging protocol for exchanging structured information in the implementation of web services. |
-Other
-| Icon | Badge | Description |
-|---|---|---|
-|  |  | A CI/CD platform that automates your build, test, and deployment pipeline. |
-|  |  | A delightful JavaScript Testing Framework with a focus on simplicity. |
-|  |  | A next-generation front-end testing tool. |
-|  |  | A tool for developing UI components in isolation. |
-|  |  | A collaborative web application for interface design. |
-|  |  | A web-based, Kanban-style list-making application. |
-|  |  | A web-based DevOps lifecycle tool. |
-|  |  | Apache Subversion, a software versioning and revision control system. |
-|  |  | A web-based version control repository hosting service. |
-|  |  | A self-contained, open-source automation server. |
-This readme file contains a comprehensive list of developer icons and badges, categorized for easy navigation. This is a great resource for making your project repositories more engaging and professional. Let me know if you would like me to add more badges or customize this list further.
+| ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/) | Versatile, high-level programming language known for its readability. |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) | [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript) | The language of the web, essential for front-end development. |
+| ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) | [![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)](https://www.java.com/) | Widely-used, class-based, object-oriented programming language. |
+| ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white) | [![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)](https://isocpp.org/) | Powerful, general-purpose programming language for systems and applications. |
+| ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white) | [![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)](https://docs.microsoft.com/dotnet/csharp/) | Multi-paradigm language developed by Microsoft. |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) | [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/) | Superset of JavaScript that adds static typing. |
+| ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) | [![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)](https://golang.org/) | Statically typed, compiled language from Google. |
+| ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white) | [![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white)](https://www.rust-lang.org/) | Language focused on safety, performance, and concurrency. |
+| ![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white) | [![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white)](https://developer.apple.com/swift/) | Robust and intuitive programming language for Apple platforms. |
+| ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white) | [![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white)](https://kotlinlang.org/) | Modern, statically typed language for JVM, Android, and browser apps. |
+| ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) | [![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB)](https://reactjs.org/) | JavaScript library for building user interfaces. |
+| ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white) | [![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)](https://vuejs.org/) | Versatile framework for building web UIs. |
+| ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white) | [![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)](https://angular.io/) | Platform for building mobile and desktop web applications. |
+| ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) | [![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org/) | JavaScript runtime built on Chrome's V8 engine. |
+| ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white) | [![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)](https://expressjs.com/) | Minimal and flexible Node.js web application framework. |
+| ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) | [![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)](https://www.djangoproject.com/) | High-level Python web framework. |
+| ![Ruby on Rails](https://img.shields.io/badge/Rails-CC0000?logo=ruby-on-rails&logoColor=white) | [![Ruby on Rails](https://img.shields.io/badge/-Rails-CC0000?logo=ruby-on-rails&logoColor=white)](https://rubyonrails.org/) | Web application framework written in Ruby. |
+| ![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white) | [![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white)](https://spring.io/) | Comprehensive framework for Java development. |
+| ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white) | [![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)](https://nextjs.org/) | React Framework for Production. |
+| ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwind-css&logoColor=white) | [![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) | Utility-first CSS framework for rapid UI development. |
+| ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) | [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com/) | NoSQL database program. |
+| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) | [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/) | World's most popular open-source database. |
+| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white) | [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)](https://www.postgresql.org/) | Powerful, open-source object-relational database system. |
+| ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white) | [![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)](https://redis.io/) | Open-source, in-memory data structure store. |
+| ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white) | [![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)](https://sqlite.org/) | Small, fast, high-reliability SQL database engine. |
+| ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black) | [![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)](https://firebase.google.com/) | Mobile and web application development platform by Google. |
+| ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?logo=apache-cassandra&logoColor=white) | [![Cassandra](https://img.shields.io/badge/-Cassandra-1287B1?logo=apache-cassandra&logoColor=white)](https://cassandra.apache.org/) | Distributed, wide-column store NoSQL database. |
+| ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white) | [![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?logo=elasticsearch&logoColor=white)](https://www.elastic.co/elasticsearch/) | RESTful search and analytics engine. |
+| ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white) | [![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/) | Amazon Web Services. |
+| ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) | [![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/) | Platform for developing, shipping, and running applications. |
+| ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) | [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)](https://kubernetes.io/) | Container-orchestration system for automating app deployment. |
+| ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white) | [![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/) | Microsoft's cloud computing service. |
+| ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=google-cloud&logoColor=white) | [![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white)](https://cloud.google.com/) | Suite of cloud computing services. |
+| ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white) | [![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)](https://jenkins.io/) | Automation server. |
+| ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) | [![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)](https://git-scm.com/) | Version control system. |
+| ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) | [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/) | Platform for version control and collaboration. |
+| ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white) | [![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)](https://www.atlassian.com/software/jira) | Issue tracking product by Atlassian. |
+| ![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white) | [![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white)](https://www.terraform.io/) | Infrastructure as code tool. |
+| ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white) | [![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white)](https://developer.android.com/) | Mobile operating system. |
+| ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) | [![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)](https://flutter.dev/) | UI toolkit for building natively compiled apps. |
+| ![React Native](https://img.shields.io/badge/React%20Native-20232A?logo=react&logoColor=61DAFB) | [![React Native](https://img.shields.io/badge/-React%20Native-20232A?logo=react&logoColor=61DAFB)](https://reactnative.dev/) | Framework for building native mobile apps using React. |
+| ![Ionic](https://img.shields.io/badge/Ionic-3880FF?logo=ionic&logoColor=white) | [![Ionic](https://img.shields.io/badge/-Ionic-3880FF?logo=ionic&logoColor=white)](https://ionicframework.com/) | Mobile UI toolkit for building native and web apps. |
+| ![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?logo=xamarin&logoColor=white) | [![Xamarin](https://img.shields.io/badge/-Xamarin-3498DB?logo=xamarin&logoColor=white)](https://dotnet.microsoft.com/apps/xamarin) | Mobile app development framework. |
+| ![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white) | [![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white)](https://unity.com/) | Cross-platform game engine. |
+| ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white) | [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) | Source code editor. |
+| ![Trello](https://img.shields.io/badge/Trello-0079BF?logo=trello&logoColor=white) | [![Trello](https://img.shields.io/badge/-Trello-0079BF?logo=trello&logoColor=white)](https://trello.com/) | Kanban-style list-making application. |
+| ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white) | [![Slack](https://img.shields.io/badge/-Slack-4A154B?logo=slack&logoColor=white)](https://slack.com/) | Messaging app for businesses. |
+| ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?logo=docker&logoColor=white) | [![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-2496ED?logo=docker&logoColor=white)](https://docs.docker.com/compose/) | Tool for running multi-container Docker applications. |
+| ![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white) | [![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white)](https://www.npmjs.com/) | Package manager for Node.js. |
+| ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=white) | [![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?logo=yarn&logoColor=white)](https://yarnpkg.com/) | Package manager for JavaScript. |
+| ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=black) | [![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black)](https://webpack.js.org/) | Static module bundler for modern JavaScript applications. |
+| ![Babel](https://img.shields.io/badge/Babel-F9DC3E?logo=babel&logoColor=black) | [![Babel](https://img.shields.io/badge/-Babel-F9DC3E?logo=babel&logoColor=black)](https://babeljs.io/) | JavaScript compiler. |
+| ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white) | [![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?logo=eslint&logoColor=white)](https://eslint.org/) | Linting utility for JavaScript. |
+| ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=black) | [![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?logo=prettier&logoColor=black)](https://prettier.io/) | Opinionated code formatter. |
+| ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white) | [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)](https://graphql.org/) | Query language for APIs. |
+| ![WebSocket](https://img.shields.io/badge/WebSocket-010101?logo=websocket&logoColor=white) | [![WebSocket](https://img.shields.io/badge/-WebSocket-010101?logo=websocket&logoColor=white)](https://developer.mozilla.org/docs/Web/API/WebSockets_API) | Protocol for full-duplex communication. |
+| ![HTTP](https://img.shields.io/badge/HTTP-005C9C?logo=http&logoColor=white) | [![HTTP](https://img.shields.io/badge/-HTTP-005C9C?logo=http&logoColor=white)](https://developer.mozilla.org/docs/Web/HTTP) | Foundation of data communication for the web. |
+| ![REST](https://img.shields.io/badge/REST-02569B?logo=rest&logoColor=white) | [![REST](https://img.shields.io/badge/-REST-02569B?logo=rest&logoColor=white)](https://restfulapi.net/) | Architectural style for networked applications. |
+| ![SOAP](https://img.shields.io/badge/SOAP-008DD2?logo=soap&logoColor=white) | [![SOAP](https://img.shields.io/badge/-SOAP-008DD2?logo=soap&logoColor=white)](https://www.w3schools.com/xml/xml_soap.asp) | Messaging protocol for web services. |
+| ![CircleCI](https://img.shields.io/badge/CircleCI-343434?logo=circleci&logoColor=white) | [![CircleCI](https://img.shields.io/badge/-CircleCI-343434?logo=circleci&logoColor=white)](https://circleci.com/) | CI/CD platform for automating pipelines. |
+| ![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white) | [![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white)](https://jestjs.io/) | JavaScript testing framework. |
+| ![Cypress](https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white) | [![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white)](https://www.cypress.io/) | Front-end testing tool. |
+| ![Storybook](https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=white) | [![Storybook](https://img.shields.io/badge/-Storybook-FF4785?logo=storybook&logoColor=white)](https://storybook.js.org/) | Tool for developing UI components in isolation. |
+| ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white) | [![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)](https://figma.com/) | Collaborative web app for interface design. |
+| ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white) | [![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=white)](https://gitlab.com/) | DevOps lifecycle tool. |
