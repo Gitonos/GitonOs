@@ -1,37 +1,102 @@
-
-React er et populært JavaScript-bibliotek for å bygge brukergrensesnitt. Det er kjent for sin komponentbaserte arkitektur, som gjør det effektivt å lage dynamiske og gjenbrukbare deler av en nettside. Det er et utmerket valg for å bygge komplekse single-page applikasjoner (SPA).
-
-
-
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue" width="40" height="40"/>
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" alt="Nuxt" width="40" height="40"/>
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="Material UI" width="40" height="40"/>
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="Webpack" width="40" height="40"/>
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM" width="40" height="40"/>
-
-Backend og AI/ML
-
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Hugging%2520Face-FFD147%3Fstyle%3Dfor-the-badge%26logo%3Dhuggingface%26logoColor%3Dblack" alt="Hugging Face"/>
-
-Utviklerverktøy
-<p align="left">
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub%2520Copilot-000000%3Fstyle%3Dfor-the-badge%26logo%3Dgithubcopilot%26logoColor%3Dwhite" alt="GitHub Copilot"/>
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="40" height="40"/>
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="Google Chrome" width="40" height="40"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Chrome%2520DevTools-4285F4%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle-chrome%26logoColor%3Dwhite" alt="Chrome DevTools"/>
-</p>
-Badges
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Utvikler-blueviolet%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26labelColor%3Dgray" alt="Utvikler Badge"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub%2520Sertifikat-blue%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26labelColor%3Dgray" alt="GitHub Sertifikat Badge"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/npm-version-CB3837%3Fstyle%3Dfor-the-badge%26logo%3Dnpm%26logoColor%3Dwhite" alt="NPM Versjon Badge"/>
-
+Developer Badges and Icons
+This is a curated collection of developer icons and badges, perfect for showcasing the technologies used in your projects. Use these to enhance your project's README.md and make it more visually appealing and informative.
+Languages
+| Icon | Badge | Description |
+|---|---|---|
+|  |  | A versatile, high-level programming language known for its readability. |
+|  |  | The language of the web, essential for front-end development. |
+|  |  | A widely-used, class-based, object-oriented programming language. |
+|  |  | A powerful, general-purpose programming language for systems and applications. |
+|  |  | A multi-paradigm language developed by Microsoft. |
+|  |  | A superset of JavaScript that adds static typing. |
+|  |  | A statically typed, compiled language from Google. |
+|  |  | A language focused on safety, performance, and concurrency. |
+|  |  | A robust and intuitive programming language for Apple platforms. |
+|  |  | A modern, statically typed language for JVM, Android, and browser apps. |
+Frameworks & Libraries
+| Icon | Badge | Description |
+|---|---|---|
+|  |  | A JavaScript library for building user interfaces. |
+|  |  | An approachable, performant, and versatile framework for building web UIs. |
+|  |  | A platform for building mobile and desktop web applications. |
+|  |  | A JavaScript runtime built on Chrome's V8 engine. |
+|  |  | A minimal and flexible Node.js web application framework. |
+|  |  | A high-level Python web framework that encourages rapid development. |
+|  |  | A web application framework written in Ruby. |
+|  |  | A comprehensive framework for Java development. |
+|  |  | The React Framework for Production. |
+|  |  | A utility-first CSS framework for rapid UI development. |
+Databases
+| Icon | Badge | Description |
+|---|---|---|
+|  |  | A NoSQL database program. |
+|  |  | The world's most popular open-source database. |
+|  |  | A powerful, open-source object-relational database system. |
+|  |  | An open-source, in-memory data structure store. |
+|  |  | A relational database management system. |
+|  |  | A C-language library that implements a small, fast, self-contained, high-reliability, full-featured, SQL database engine. |
+|  |  | A relational database management system developed by Microsoft. |
+|  |  | A mobile and web application development platform by Google. |
+|  |  | A free and open-source, distributed, wide-column store, NoSQL database management system. |
+|  |  | A distributed, RESTful search and analytics engine. |
+Cloud & DevOps
+| Icon | Badge | Description |
+|---|---|---|
+|  |  | Amazon Web Services. |
+|  |  | A platform for developing, shipping, and running applications. |
+|  |  | An open-source container-orchestration system for automating application deployment. |
+|  |  | Microsoft's cloud computing service. |
+|  |  | A suite of cloud computing services that runs on the same infrastructure that Google uses. |
+|  |  | A self-contained, open-source automation server. |
+|  |  | A version control system. |
+|  |  | A platform for version control and collaboration. |
+|  |  | A proprietary issue tracking product developed by Atlassian. |
+|  |  | An infrastructure as code software tool. |
+Mobile
+| Icon | Badge | Description |
+|---|---|---|
+|  |  | An open-source mobile operating system. |
+|  |  | A UI toolkit for building beautiful, natively compiled applications. |
+|  |  | A framework for building native mobile apps using React. |
+|  |  | A powerful programming language for Apple platforms. |
+|  |  | A modern, statically typed language for Android. |
+|  |  | A free, open-source platform for building modern and performant applications. |
+|  |  | A free and open-source mobile UI toolkit for building native and progressive web apps. |
+|  |  | A mobile application development framework. |
+|  |  | A general-purpose, object-oriented programming language. |
+|  |  | A cross-platform game engine. |
+Other Tools & Technologies
+| Icon | Badge | Description |
+|---|---|---|
+|  |  | A powerful source code editor. |
+|  |  | A web-based, Kanban-style list-making application. |
+|  |  | A messaging app for businesses. |
+|  |  | A tool for defining and running multi-container Docker applications. |
+|  |  | The package manager for Node.js. |
+|  |  | A package manager for JavaScript with a focus on speed, security, and stability. |
+|  |  | A static module bundler for modern JavaScript applications. |
+|  |  | A JavaScript compiler. |
+|  |  | A linting utility for JavaScript. |
+|  |  | An opinionated code formatter. |
+Protocols
+| Icon | Badge | Description |
+|---|---|---|
+|  |  | A query language for APIs. |
+|  |  | A protocol providing full-duplex communication channels over a single TCP connection. |
+|  |  | The foundation of data communication for the World Wide Web. |
+|  |  | An architectural style for designing networked applications. |
+|  |  | A messaging protocol for exchanging structured information in the implementation of web services. |
+Other
+| Icon | Badge | Description |
+|---|---|---|
+|  |  | A CI/CD platform that automates your build, test, and deployment pipeline. |
+|  |  | A delightful JavaScript Testing Framework with a focus on simplicity. |
+|  |  | A next-generation front-end testing tool. |
+|  |  | A tool for developing UI components in isolation. |
+|  |  | A collaborative web application for interface design. |
+|  |  | A web-based, Kanban-style list-making application. |
+|  |  | A web-based DevOps lifecycle tool. |
+|  |  | Apache Subversion, a software versioning and revision control system. |
+|  |  | A web-based version control repository hosting service. |
+|  |  | A self-contained, open-source automation server. |
+This readme file contains a comprehensive list of developer icons and badges, categorized for easy navigation. This is a great resource for making your project repositories more engaging and professional. Let me know if you would like me to add more badges or customize this list further.
