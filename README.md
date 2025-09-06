@@ -8,16 +8,9 @@ Vår Filosofi
  * Frihet fra byråkrati:
 
 
-- Holde Folk Borte fra Batnfjord , Kristiansund og Molde og Oslo og ikke rekruttere dit
-
-- Aldri mere Ringe Telefon til 
-Batnfjord , Kristiansund og Molde
-eller Oslo
 
 
-- Aldri mere Ringe i Norge
 
-- slutte også med telefon 
 
 ---------
 
