@@ -8,4 +8,12 @@ Vår Filosofi
  * Hastighet: Takket være Gemini kan en app gå fra idé til ferdig produkt på bare 2 til 30 minutter.
 Slik fungerer det
 Hele prosessen er ukomplisert. En visjon eller et konsept mates inn, og Gemini genererer den ferdige applikasjonen. Deretter er det kun et spørsmål om å laste opp den ferdige filen direkte til våre GiTonOS nettside-lenker, som umiddelbart fungerer som egne, selvstendige apper.
-GiTonOS er beviset på at utvikling ikke krever tunge investeringer eller store organisasjoner. Det krever bare frihet, smarte verktøy, og en visjon.
+GiTonOS er beviset på at utvikling ikke krever tunge investeringer eller sjonglerende investerings mandat som er bare en stor konsekvens uten kraft til og være nyttig
+
+----
+
+kraften trengs ikke i store organisasjoner. 
+
+---------
+
+Det krever bare frihet, smarte verktøy, og en visjon.
