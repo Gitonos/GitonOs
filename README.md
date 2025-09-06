@@ -8,9 +8,16 @@ Vår Filosofi
  * Frihet fra byråkrati:
 
 
-- Borte fra Batnfjord , Kristiansund og Molde
+- Holde Folk Borte fra Batnfjord , Kristiansund og Molde og ikke rekruttere dit
 
-  
+- Aldri mere Ringe Telefon til 
+Batnfjord , Kristiansund og Molde
+
+
+
+
+---------
+
 
  * Utviklingen er en helt selvstendig prosess drevet av visjon og Gemini. Det finnes ingen hierarki som bremser fremdriften.
 
