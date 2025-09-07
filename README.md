@@ -1,8 +1,4 @@
 
-bare med følge design fra
-css kode verk og generere nøyaktike
-stiler med :
-
 - grafer
 - stiler
 - layout
