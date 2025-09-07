@@ -1,17 +1,4 @@
 
-
-GiTonOS - Apputvikling uten grenser
-Velkommen til GiTonOS-filosofien, der vi snur opp ned på tradisjonell apputvikling. Her er det ingen sjef, ingen unødvendig administrasjon, og ingen kompliserte ledd. Vi skaper apper basert på frihet, enkelhet og kraften i kunstig intelligens.
-Vår Filosofi
-
-
- * Frihet fra byråkrati:
-
-
-
-
-
-
 ---------
 
 
