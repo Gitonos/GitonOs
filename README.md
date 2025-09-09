@@ -12,3 +12,9 @@ Finding Scams in  Day Trading
 
   
 <img width="424" height="424" alt="Evidences" src="https://github.com/user-attachments/assets/cc9d14ab-1a65-425d-9d8c-8cd163be3e78" />
+
+-----------------
+
+- Finding Scams in Daytrading
+
+<img width="424" height="424" alt="Tracking" src="https://github.com/user-attachments/assets/5aa040bb-e14f-4521-b623-d4580e10b063" />
