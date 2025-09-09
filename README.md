@@ -1,1 +1,1 @@
-Finding Scams in Trading
+Finding Scams in  Day Trading
