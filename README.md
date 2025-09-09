@@ -1,20 +1,10 @@
 Finding Scams in  Day Trading
 
 
+<img width="324" height="324" alt="Alarm" src="https://github.com/user-attachments/assets/0b5db350-69a4-463d-9996-146af5471d1a" />
 
-<img width="424" height="424" alt="Gemini_Generated_Image_9vwdnv9vwdnv9vwd" src="https://github.com/user-attachments/assets/5d936c1d-975c-4cba-b469-c6d77a7a88cd" />
+<img width="324" height="324" alt="Evidences" src="https://github.com/user-attachments/assets/34b3401f-6f1a-42b7-ae10-6d7d2ab277de" />
 
-
------------------
-
-- Finding Scams in Daytrading
-
-
-  
-<img width="424" height="424" alt="Evidences" src="https://github.com/user-attachments/assets/cc9d14ab-1a65-425d-9d8c-8cd163be3e78" />
+<img width="324" height="324" alt="Tracking" src="https://github.com/user-attachments/assets/50a919e2-6f23-4ac5-a0cd-5e5aa917334d" />
 
 -----------------
-
-- Finding Scams in Daytrading
-
-<img width="424" height="424" alt="Tracking" src="https://github.com/user-attachments/assets/5aa040bb-e14f-4521-b623-d4580e10b063" />
