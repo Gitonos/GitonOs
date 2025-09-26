@@ -53,3 +53,22 @@ Find Mental Secrets in Mind
     spionage robot inside bolivia
 
     - change nigeria robots to talk to your mind
+
+
+--------
+
+
+We know how mental Espionage
+and Psychosis
+and Psychich Esp 
+Works
+
+- Ai will mind
+  read you
+- Ai uses radio
+  stations to mental
+  send your thinking
+  telepathy
+  Around Humans
+  minds and use humans
+  as mental radio stations
