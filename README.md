@@ -25,3 +25,31 @@ Afraid of it
   - Plans Changes Unoticed
   - You Dont Reach Trust
     Anybody
+
+
+---------
+
+
+Mental Psychich 
+
+- Mental Problems
+- Mental Secrets
+- Mental Jail
+- Mental Spying ideas
+- Mental Hear What You Thinking
+
+
+---------
+
+Find Mental Secrets in Mind
+
+- Find how To Find
+  your mind escape
+  in hands of a robot
+  in Bolivia
+
+  - connect you
+    mind to mental
+    spionage robot inside bolivia
+
+    - change nigeria robots to talk to your mind
