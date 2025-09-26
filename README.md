@@ -1,12 +1,13 @@
-finding areas
-of ios and android
-cross platform
-builds 
+Living Of Mental Afraid Decisssions
 
-coverage of system
-and operative application 
+--------
 
+what was a Danger idea fuels
+insanity danger comittments
 
-////
+---------
 
-belongs to GitonOs
+if you think
+
+- your ideaa floats in
+  danger deceptions
