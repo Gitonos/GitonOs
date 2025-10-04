@@ -1,1 +1,3 @@
-Norge Selvmord Topper Statistikken 
+Norge Selvmord Topper Selvmord 
+
+Selvmord Lederskap 
