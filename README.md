@@ -1,3 +1,2 @@
-Norge Selvmord Topper Selvmord 
-
-Selvmord Lederskap 
+Bygger Apps
+for selv drift
